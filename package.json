@@ -5,7 +5,10 @@
   "dependencies": {
     "typescript": "^3.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/react-native": "^0.56.9",
+    "react-native": "^0.56.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/micimize/react-native-styles.git"
