@@ -1,0 +1,23 @@
+{
+  "name": "react-native-styles",
+  "version": "0.0.1",
+  "description": "style utilities for react-native",
+  "dependencies": {
+    "typescript": "^3.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micimize/react-native-styles.git"
+  },
+  "license": "MIT",
+  "author": "Michael Joseph Rosenthal",
+  "scripts": {
+    "build": "tsc"
+  },
+  "main": "./dist/index.js",
+  "typings": "dist/index.d.ts",
+  "typescript": {
+    "definition": "dist/index.d.ts"
+  }
+}
